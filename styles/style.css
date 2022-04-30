@@ -19,8 +19,8 @@ body {
 
 .walls_left, .walls_right {
   height: 100px;
-  background-color: #000000;
   width: 250px;
+  background-color: #000000;
 }
 
 .path {
@@ -40,14 +40,14 @@ body {
 
 .walls_left_1 {
   height: 10px;
-  background-color: #000000;
   width: 100px;
+  background-color: #000000;
 }
 
 .walls_right_1 {
   height: 10px;
-  background-color: #000000;
   width: 250px;
+  background-color: #000000;
 }
 
 .path_1 {
@@ -57,17 +57,15 @@ body {
 }
 
 .walls_left_2 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 50px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .walls_right_2 {
-  height: 10px;
-  background-color: #000000;
-  width: 490px;
   height: 50px;
+  width: 490px;
+  background-color: #000000;
 }
 
 .path_2 {
@@ -77,17 +75,15 @@ body {
 }
 
 .walls_left_3 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 20px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .walls_right_3 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 20px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .path_3 {
@@ -97,24 +93,21 @@ body {
 }
 
 .walls_left_4 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 20px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .walls_mid_4 {
-  height: 10px;
-  background-color: #000000;
-  width: 360px;
   height: 20px;
+  width: 360px;
+  background-color: #000000;
 }
 
 .walls_right_4 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 20px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .path_4_left, .path_4_right {
@@ -124,10 +117,9 @@ body {
 }
 
 .walls_mid_5 {
-  height: 10px;
-  background-color: #000000;
-  width: 260px;
   height: 20px;
+  width: 260px;
+  background-color: #000000;
 }
 
 .path_5_right {
@@ -137,31 +129,27 @@ body {
 }
 
 .walls_right_5 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 20px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .walls_left_6 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 100px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .walls_mid_6 {
-  height: 10px;
-  background-color: #000000;
-  width: 260px;
   height: 100px;
+  width: 260px;
+  background-color: #000000;
 }
 
 .walls_right_6 {
-  height: 10px;
-  background-color: #000000;
-  width: 200px;
   height: 100px;
+  width: 200px;
+  background-color: #000000;
 }
 
 .path_6_left, .path_6_right {
@@ -171,24 +159,21 @@ body {
 }
 
 .walls_left_7 {
-  height: 10px;
-  background-color: #000000;
-  width: 100px;
   height: 20px;
+  width: 100px;
+  background-color: #000000;
 }
 
 .walls_mid_7 {
-  height: 10px;
-  background-color: #000000;
-  width: 160px;
   height: 20px;
+  width: 160px;
+  background-color: #000000;
 }
 
 .walls_right_7 {
-  height: 10px;
-  background-color: #000000;
-  width: 200px;
   height: 20px;
+  width: 200px;
+  background-color: #000000;
 }
 
 .path_7_right {
@@ -204,24 +189,21 @@ body {
 }
 
 .walls_left_8 {
-  height: 10px;
-  background-color: #000000;
-  width: 200px;
   height: 100px;
+  width: 200px;
+  background-color: #000000;
 }
 
 .walls_mid_8 {
-  height: 10px;
-  background-color: #000000;
-  width: 160px;
   height: 100px;
+  width: 160px;
+  background-color: #000000;
 }
 
 .walls_right_8 {
-  height: 10px;
-  background-color: #000000;
-  width: 200px;
   height: 100px;
+  width: 200px;
+  background-color: #000000;
 }
 
 .path_8_left, .path_8_right {
@@ -231,17 +213,15 @@ body {
 }
 
 .walls_left_9 {
-  height: 10px;
-  background-color: #000000;
-  width: 200px;
   height: 20px;
+  width: 200px;
+  background-color: #000000;
 }
 
 .walls_right_9 {
-  height: 10px;
-  background-color: #000000;
-  width: 200px;
   height: 20px;
+  width: 200px;
+  background-color: #000000;
 }
 
 .path_9 {
@@ -251,17 +231,15 @@ body {
 }
 
 .walls_left_10 {
-  height: 10px;
-  background-color: #000000;
-  width: 295px;
   height: 60px;
+  width: 295px;
+  background-color: #000000;
 }
 
 .walls_right_10 {
-  height: 10px;
-  background-color: #000000;
-  width: 295px;
   height: 60px;
+  width: 295px;
+  background-color: #000000;
 }
 
 .path_10 {
@@ -287,13 +265,13 @@ body {
 
 .walls_left_11 {
   height: 80px;
-  background-color: #000000;
   width: 250px;
+  background-color: #000000;
 }
 
 .walls_right_11 {
   height: 80px;
-  background-color: #000000;
   width: 250px;
+  background-color: #000000;
 }
 /*# sourceMappingURL=style.css.map */
