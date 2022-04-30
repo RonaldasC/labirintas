@@ -2,7 +2,7 @@
     background-color: #000000;
 }
 @mixin kelioSpalva {
-    background-color: #e5e5e5;
+    background-color: #e4d4d4f7;
 }
 body {
     width: 600px;
@@ -60,7 +60,7 @@ body {
 .path_2 {
     height: 50px;
     width: 10px;
-    background-color: #e5e5e5;
+    @include kelioSpalva;
 }
 .walls_left_3 {
     height: 20px;

@@ -26,7 +26,7 @@ body {
 .path {
   height: 100px;
   width: 100px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -53,7 +53,7 @@ body {
 .path_1 {
   height: 10px;
   width: 250px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_2 {
@@ -71,7 +71,7 @@ body {
 .path_2 {
   height: 50px;
   width: 10px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_3 {
@@ -89,7 +89,7 @@ body {
 .path_3 {
   height: 20px;
   width: 400px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_4 {
@@ -113,7 +113,7 @@ body {
 .path_4_left, .path_4_right {
   height: 20px;
   width: 20px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_mid_5 {
@@ -125,7 +125,7 @@ body {
 .path_5_right {
   height: 20px;
   width: 120px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_right_5 {
@@ -155,7 +155,7 @@ body {
 .path_6_left, .path_6_right {
   height: 100px;
   width: 20px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_7 {
@@ -179,13 +179,13 @@ body {
 .path_7_right {
   height: 20px;
   width: 20px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .path_7_left {
   height: 20px;
   width: 120px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_8 {
@@ -209,7 +209,7 @@ body {
 .path_8_left, .path_8_right {
   height: 100px;
   width: 20px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_9 {
@@ -227,7 +227,7 @@ body {
 .path_9 {
   height: 20px;
   width: 200px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .walls_left_10 {
@@ -245,13 +245,13 @@ body {
 .path_10 {
   height: 60px;
   width: 10px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
 }
 
 .path_11 {
   height: 80px;
   width: 100px;
-  background-color: #e5e5e5;
+  background-color: #e4d4d4f7;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
