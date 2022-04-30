@@ -1,1 +1,299 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  width: 600px;
+  height: 600px;
+  border: 1px solid;
+}
+
+/*
+.border {
+    border: 2px solid rgb(0, 255, 76);
+}
+*/
+.wraper_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.walls_left, .walls_right {
+  height: 100px;
+  background-color: #000000;
+  width: 250px;
+}
+
+.path {
+  height: 100px;
+  width: 100px;
+  background-color: #e5e5e5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.walls_left_1 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+}
+
+.walls_right_1 {
+  height: 10px;
+  background-color: #000000;
+  width: 250px;
+}
+
+.path_1 {
+  height: 10px;
+  width: 250px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_2 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 50px;
+}
+
+.walls_right_2 {
+  height: 10px;
+  background-color: #000000;
+  width: 490px;
+  height: 50px;
+}
+
+.path_2 {
+  height: 50px;
+  width: 10px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_3 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 20px;
+}
+
+.walls_right_3 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 20px;
+}
+
+.path_3 {
+  height: 20px;
+  width: 400px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_4 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 20px;
+}
+
+.walls_mid_4 {
+  height: 10px;
+  background-color: #000000;
+  width: 360px;
+  height: 20px;
+}
+
+.walls_right_4 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 20px;
+}
+
+.path_4_left, .path_4_right {
+  height: 20px;
+  width: 20px;
+  background-color: #e5e5e5;
+}
+
+.walls_mid_5 {
+  height: 10px;
+  background-color: #000000;
+  width: 260px;
+  height: 20px;
+}
+
+.path_5_right {
+  height: 20px;
+  width: 120px;
+  background-color: #e5e5e5;
+}
+
+.walls_right_5 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 20px;
+}
+
+.walls_left_6 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 100px;
+}
+
+.walls_mid_6 {
+  height: 10px;
+  background-color: #000000;
+  width: 260px;
+  height: 100px;
+}
+
+.walls_right_6 {
+  height: 10px;
+  background-color: #000000;
+  width: 200px;
+  height: 100px;
+}
+
+.path_6_left, .path_6_right {
+  height: 100px;
+  width: 20px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_7 {
+  height: 10px;
+  background-color: #000000;
+  width: 100px;
+  height: 20px;
+}
+
+.walls_mid_7 {
+  height: 10px;
+  background-color: #000000;
+  width: 160px;
+  height: 20px;
+}
+
+.walls_right_7 {
+  height: 10px;
+  background-color: #000000;
+  width: 200px;
+  height: 20px;
+}
+
+.path_7_right {
+  height: 20px;
+  width: 20px;
+  background-color: #e5e5e5;
+}
+
+.path_7_left {
+  height: 20px;
+  width: 120px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_8 {
+  height: 10px;
+  background-color: #000000;
+  width: 200px;
+  height: 100px;
+}
+
+.walls_mid_8 {
+  height: 10px;
+  background-color: #000000;
+  width: 160px;
+  height: 100px;
+}
+
+.walls_right_8 {
+  height: 10px;
+  background-color: #000000;
+  width: 200px;
+  height: 100px;
+}
+
+.path_8_left, .path_8_right {
+  height: 100px;
+  width: 20px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_9 {
+  height: 10px;
+  background-color: #000000;
+  width: 200px;
+  height: 20px;
+}
+
+.walls_right_9 {
+  height: 10px;
+  background-color: #000000;
+  width: 200px;
+  height: 20px;
+}
+
+.path_9 {
+  height: 20px;
+  width: 200px;
+  background-color: #e5e5e5;
+}
+
+.walls_left_10 {
+  height: 10px;
+  background-color: #000000;
+  width: 295px;
+  height: 60px;
+}
+
+.walls_right_10 {
+  height: 10px;
+  background-color: #000000;
+  width: 295px;
+  height: 60px;
+}
+
+.path_10 {
+  height: 60px;
+  width: 10px;
+  background-color: #e5e5e5;
+}
+
+.path_11 {
+  height: 80px;
+  width: 100px;
+  background-color: #e5e5e5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.walls_left_11 {
+  height: 80px;
+  background-color: #000000;
+  width: 250px;
+}
+
+.walls_right_11 {
+  height: 80px;
+  background-color: #000000;
+  width: 250px;
+}
+/*# sourceMappingURL=style.css.map */
