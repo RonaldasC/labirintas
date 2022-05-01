@@ -7,7 +7,6 @@
 body {
     width: 600px;
     height: 600px;
-    border: 1px solid;
 }
 .wraper_1 {
     display: flex;
@@ -220,12 +219,21 @@ body {
     width: 250px;
     @include sienuSpalva;
 }
-.img_teletubies {
-    //display: none;
+#img_teletubies {
+    display: block;
     position: absolute;
-    top: 150px;
+    top: 134px;
     left: 183px;
     height: 480px;
-    width: 234px;
-    
+    width: 234px; 
+}
+#cute_buny {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 600px;
+    width: 600px; 
+    margin-top: 8px;
+    margin-left: 8px;
 }
