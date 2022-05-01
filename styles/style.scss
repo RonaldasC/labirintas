@@ -9,17 +9,12 @@ body {
     height: 600px;
     border: 1px solid;
 }
-/*
-.border {
-    border: 2px solid rgb(0, 255, 76);
-}
-*/
 .wraper_1 {
     display: flex;
     height: 100%;
     width: 100%;
 }
-.walls_left, .walls_right {
+#walls_left, #walls_right {
     height: 100px;
     width: 250px;
     @include sienuSpalva;
@@ -32,12 +27,12 @@ body {
     justify-content: center;
     align-items: center;
   }
-.walls_left_1 {
+#walls_left_1 {
     height: 10px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_right_1 {
+#walls_right_1 {
     height: 10px;
     width: 250px;
     @include sienuSpalva;
@@ -47,12 +42,12 @@ body {
     width: 250px;
     @include kelioSpalva;
 }
-.walls_left_2 {
+#walls_left_2 {
     height: 50px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_right_2 {
+#walls_right_2 {
     height: 50px;
     width: 490px;
     @include sienuSpalva;
@@ -62,12 +57,12 @@ body {
     width: 10px;
     @include kelioSpalva;
 }
-.walls_left_3 {
+#walls_left_3 {
     height: 20px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_right_3 {
+#walls_right_3 {
     height: 20px;
     width: 100px;
     @include sienuSpalva;
@@ -77,17 +72,17 @@ body {
     width: 400px;
     @include kelioSpalva;
 }
-.walls_left_4 {
+#walls_left_4 {
     height: 20px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_mid_4 {
+#walls_mid_4 {
     height: 20px;
     width: 360px;
     @include sienuSpalva;
 }
-.walls_right_4 {
+#walls_right_4 {
     height: 20px;
     width: 100px;
     @include sienuSpalva;
@@ -97,7 +92,7 @@ body {
     width: 20px;
     @include kelioSpalva;
 }
-.walls_mid_5 {
+#walls_mid_5 {
     height: 20px;
     width: 260px;
     @include sienuSpalva;
@@ -107,22 +102,22 @@ body {
     width: 120px;
     @include kelioSpalva;
 }
-.walls_right_5 {
+#walls_right_5 {
     height: 20px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_left_6 {
+#walls_left_6 {
     height: 100px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_mid_6 {
+#walls_mid_6 {
     height: 100px;
     width: 260px;
     @include sienuSpalva;
 }
-.walls_right_6 {
+#walls_right_6 {
     height: 100px;
     width: 200px;
     @include sienuSpalva;
@@ -132,17 +127,17 @@ body {
     width: 20px;
     @include kelioSpalva;
 }
-.walls_left_7 {
+#walls_left_7 {
     height: 20px;
     width: 100px;
     @include sienuSpalva;
 }
-.walls_mid_7 {
+#walls_mid_7 {
     height: 20px;
     width: 160px;
     @include sienuSpalva;
 }
-.walls_right_7 {
+#walls_right_7 {
     height: 20px;
     width: 200px;
     @include sienuSpalva;
@@ -157,17 +152,17 @@ body {
     width: 120px;
     @include kelioSpalva;
 }
-.walls_left_8 {
+#walls_left_8 {
     height: 100px;
     width: 200px;
     @include sienuSpalva;
 }
-.walls_mid_8 {
+#walls_mid_8 {
     height: 100px;
     width: 160px;
     @include sienuSpalva;
 }
-.walls_right_8 {
+#walls_right_8 {
     height: 100px;
     width: 200px;
     @include sienuSpalva;
@@ -177,12 +172,12 @@ body {
     width: 20px;
     @include kelioSpalva;
 }
-.walls_left_9 {
+#walls_left_9 {
     height: 20px;
     width: 200px;
     @include sienuSpalva;
 }
-.walls_right_9 {
+#walls_right_9 {
     height: 20px;
     width: 200px;
     @include sienuSpalva;
@@ -192,12 +187,12 @@ body {
     width: 200px;
     @include kelioSpalva;
 }
-.walls_left_10 {
+#walls_left_10 {
     height: 60px;
     width: 295px;
     @include sienuSpalva;
 }
-.walls_right_10 {
+#walls_right_10 {
     height: 60px;
     width: 295px;
     @include sienuSpalva;
@@ -215,13 +210,22 @@ body {
     justify-content: center;
     align-items: center;
   }
-.walls_left_11 {
+#walls_left_11 {
     height: 80px;
     width: 250px;
     @include sienuSpalva;
 }
-.walls_right_11 {
+#walls_right_11 {
     height: 80px;
     width: 250px;
     @include sienuSpalva;
+}
+.img_teletubies {
+    //display: none;
+    position: absolute;
+    top: 150px;
+    left: 183px;
+    height: 480px;
+    width: 234px;
+    
 }

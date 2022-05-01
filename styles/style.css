@@ -4,11 +4,6 @@ body {
   border: 1px solid;
 }
 
-/*
-.border {
-    border: 2px solid rgb(0, 255, 76);
-}
-*/
 .wraper_1 {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -17,7 +12,7 @@ body {
   width: 100%;
 }
 
-.walls_left, .walls_right {
+#walls_left, #walls_right {
   height: 100px;
   width: 250px;
   background-color: #000000;
@@ -38,13 +33,13 @@ body {
           align-items: center;
 }
 
-.walls_left_1 {
+#walls_left_1 {
   height: 10px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_right_1 {
+#walls_right_1 {
   height: 10px;
   width: 250px;
   background-color: #000000;
@@ -56,13 +51,13 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_2 {
+#walls_left_2 {
   height: 50px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_right_2 {
+#walls_right_2 {
   height: 50px;
   width: 490px;
   background-color: #000000;
@@ -74,13 +69,13 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_3 {
+#walls_left_3 {
   height: 20px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_right_3 {
+#walls_right_3 {
   height: 20px;
   width: 100px;
   background-color: #000000;
@@ -92,19 +87,19 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_4 {
+#walls_left_4 {
   height: 20px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_mid_4 {
+#walls_mid_4 {
   height: 20px;
   width: 360px;
   background-color: #000000;
 }
 
-.walls_right_4 {
+#walls_right_4 {
   height: 20px;
   width: 100px;
   background-color: #000000;
@@ -116,7 +111,7 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_mid_5 {
+#walls_mid_5 {
   height: 20px;
   width: 260px;
   background-color: #000000;
@@ -128,25 +123,25 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_right_5 {
+#walls_right_5 {
   height: 20px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_left_6 {
+#walls_left_6 {
   height: 100px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_mid_6 {
+#walls_mid_6 {
   height: 100px;
   width: 260px;
   background-color: #000000;
 }
 
-.walls_right_6 {
+#walls_right_6 {
   height: 100px;
   width: 200px;
   background-color: #000000;
@@ -158,19 +153,19 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_7 {
+#walls_left_7 {
   height: 20px;
   width: 100px;
   background-color: #000000;
 }
 
-.walls_mid_7 {
+#walls_mid_7 {
   height: 20px;
   width: 160px;
   background-color: #000000;
 }
 
-.walls_right_7 {
+#walls_right_7 {
   height: 20px;
   width: 200px;
   background-color: #000000;
@@ -188,19 +183,19 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_8 {
+#walls_left_8 {
   height: 100px;
   width: 200px;
   background-color: #000000;
 }
 
-.walls_mid_8 {
+#walls_mid_8 {
   height: 100px;
   width: 160px;
   background-color: #000000;
 }
 
-.walls_right_8 {
+#walls_right_8 {
   height: 100px;
   width: 200px;
   background-color: #000000;
@@ -212,13 +207,13 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_9 {
+#walls_left_9 {
   height: 20px;
   width: 200px;
   background-color: #000000;
 }
 
-.walls_right_9 {
+#walls_right_9 {
   height: 20px;
   width: 200px;
   background-color: #000000;
@@ -230,13 +225,13 @@ body {
   background-color: #e4d4d4f7;
 }
 
-.walls_left_10 {
+#walls_left_10 {
   height: 60px;
   width: 295px;
   background-color: #000000;
 }
 
-.walls_right_10 {
+#walls_right_10 {
   height: 60px;
   width: 295px;
   background-color: #000000;
@@ -263,15 +258,23 @@ body {
           align-items: center;
 }
 
-.walls_left_11 {
+#walls_left_11 {
   height: 80px;
   width: 250px;
   background-color: #000000;
 }
 
-.walls_right_11 {
+#walls_right_11 {
   height: 80px;
   width: 250px;
   background-color: #000000;
+}
+
+.img_teletubies {
+  position: absolute;
+  top: 150px;
+  left: 183px;
+  height: 480px;
+  width: 234px;
 }
 /*# sourceMappingURL=style.css.map */
