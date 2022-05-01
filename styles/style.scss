@@ -219,6 +219,9 @@ body {
     width: 250px;
     @include sienuSpalva;
 }
+#paliesk_mane {
+    display: block;
+}
 #img_teletubies {
     display: block;
     position: absolute;
@@ -236,4 +239,5 @@ body {
     width: 600px; 
     margin-top: 8px;
     margin-left: 8px;
+    border: 1px solid white;
 }
