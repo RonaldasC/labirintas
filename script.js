@@ -76,7 +76,7 @@ document.getElementById('walls_right_11').addEventListener('mouseover', paliesta
 function paliestaSiena() {
     if ('mouseover') {
         document.getElementById('img_teletubies').style.display = 'block';
-        //console.log('Paliesta siena');
+        console.log('Paliesta siena');
     }
 }
 /*čia aprašoma pradžios mygrukas ir kad ji paspaudus teletabio paveiksliukas pradinksta
