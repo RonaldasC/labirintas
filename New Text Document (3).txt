@@ -1,0 +1,6 @@
+labirintas kureme uzvedus uz labirinto ribu kazkas nutiktu.
+liseneris butu kordinates 
+
+ekrano pradziai reik pasidaryt labirinta 
+
+labirinta darsiu iš div elementu 
